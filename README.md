@@ -1,0 +1,4 @@
+MagentoModule
+=============
+
+Magento module
